@@ -11,7 +11,7 @@ Move the paddle using A and D. Help the ball break all the bricks.
 
 ## Implementation
 
-Built using Unity 2022.3.17f1
+Built using Unity 2022.3.45f1
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
